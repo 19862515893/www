@@ -8,7 +8,7 @@
       </options>
     </properties>
     <root id="archive" name="JavaWeb-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="/JavaWeb" />
+      <element id="artifact" artifact-name="JavaWeb:war exploded" />
     </root>
   </artifact>
 </component>
